@@ -1,8 +1,8 @@
 # repo-maker
 
-A Claude Code skill that sets up GitHub repos for you. You say what the project is in plain words, it shows you a plan, and after you say go it runs the GitHub commands itself.
+A Claude Code skill that sets up GitHub repos for you. You say what the project is in plain words, it shows you a plan, and after you say "go" it runs the GitHub commands itself.
 
-I built it because I'm new to terminals. Every time I wanted a new repo I was looking up the same six commands and getting one flag wrong. Now I type `/repo-maker a place to keep my client intake scripts` and it's done in about a minute.
+I built this because I'm new to terminals, and wanted to share this for anyone else who may be new as well. Every time I wanted a new repo I was looking up the same six commands and getting one flag wrong. Now I type `/repo-maker a place to keep my client intake scripts` and it's done in about a minute.
 
 ## What it does
 
